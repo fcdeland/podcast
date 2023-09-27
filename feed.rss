@@ -59,7 +59,7 @@
             <enclosure
                 url="https://fcdeland.github.io/podcast/Podcast1.mp3"
                 length="63575456" type="audio/mpeg" />
-            <itunes:duration>00:09:51</itunes:duration>
+            <itunes:duration>00:09:41</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:episode>1</itunes:episode>
