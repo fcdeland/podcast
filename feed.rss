@@ -27,6 +27,7 @@
             href="https://fcdeland.github.io/podcast/fcpodcast_art1.png" />
         <itunes:owner>
             <itunes:name>First Church DeLand</itunes:name>
+            <itunes:email>podcast@fcdeland.org</itunes:email>
         </itunes:owner>
         <itunes:author>First Church DeLand</itunes:author>
         <description>
