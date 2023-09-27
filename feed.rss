@@ -37,11 +37,10 @@
         <itunes:subtitle><![CDATA[A weekly show dedicated to taking you behind the scenes of Captivate, where we’re actively helping you, the serious independent podcast creator, to save time, grow your audience and monetize your audio.]]></itunes:subtitle>
         <itunes:explicit>no</itunes:explicit>
         <itunes:type>episodic</itunes:type>
-        <itunes:category text="Religion">
+        <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"></itunes:category>
         </itunes:category>
         <itunes:category text="News"></itunes:category>
-        <itunes:category text="Business"></itunes:category>
         <itunes:category text="Society &amp; Culture">
             <itunes:category text="Philosophy"></itunes:category>
         </itunes:category>
