@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://feeds.captivate.fm/style.xsl" type="text/xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:podcast="https://podcastindex.org/namespace/1.0">
+    <channel>
+        <atom:link href="https://wjladams.github.io/" rel="self" type="application/rss+xml" />
+        <title><![CDATA[The Family Reunion by First Church DeLand]]></title>
+        <lastBuildDate>Fri, 20 Jan 2023 12:40:37 +0000</lastBuildDate>
+        <generator>First Church DeLand</generator>
+        <language><![CDATA[en]]></language>
+        <copyright><![CDATA[Copyright 2023 First Church DeLand]]></copyright>
+        <managingEditor>First Church DeLand</managingEditor>
+        <itunes:summary><![CDATA[
+        Welcome to `The Family Reunion’ podcast, where we share interesting happenings at our church (First Church DeLand), interviews and philosophical discussions.  At First Church DeLand, we are The Family Place, and this podcast is the digital equivalent of catching up with your family at a reunion. Our goal is to Intentional share Christ’s love and salvation as God directs through this ministry.  For more information about our church please visit https://firstchurchdeland.org
+        ]]></itunes:summary>
+        <image>
+            <url>
+                https://artwork.captivate.fm/dfb8c1f6-37d4-436a-ac7c-9892dd42d8ec/95P3tsytEUaOF_uL-_5tIjIW.png</url>
+            <title>Captivate Insider</title>
+            <link><![CDATA[https://www.captivate.fm]]></link>
+        </image>
+        <itunes:image
+            href="https://artwork.captivate.fm/dfb8c1f6-37d4-436a-ac7c-9892dd42d8ec/95P3tsytEUaOF_uL-_5tIjIW.png" />
+        <itunes:owner>
+            <itunes:name>First Church DeLand</itunes:name>
+        </itunes:owner>
+        <itunes:author>First Church DeLand</itunes:author>
+        <description>
+            Welcome to `The Family Reunion’ podcast, where we share interesting happenings at our church (First Church DeLand), interviews and philosophical discussions.  At First Church DeLand, we are The Family Place, and this podcast is the digital equivalent of catching up with your family at a reunion. Our goal is to Intentional share Christ’s love and salvation as God directs through this ministry.  For more information about our church please visit https://firstchurchdeland.org
+        </description>
+        <link>https://firstchurchdeland.org</link>
+        <atom:link href="https://pubsubhubbub.appspot.com" rel="hub" />
+        <itunes:subtitle><![CDATA[A weekly show dedicated to taking you behind the scenes of Captivate, where we’re actively helping you, the serious independent podcast creator, to save time, grow your audience and monetize your audio.]]></itunes:subtitle>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+        <itunes:category text="Religion">
+            <itunes:category text="Christianity"></itunes:category>
+        </itunes:category>
+        <itunes:category text="News"></itunes:category>
+        <itunes:category text="Business"></itunes:category>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Philosophy"></itunes:category>
+        </itunes:category>
+        <item>
+            <title>Our Youth Pastor, Lucy Hudson, discusses what's happening this school year</title>
+            <itunes:title>Our Youth Pastor, Lucy Hudson, discusses what's happening this school year</itunes:title>
+            <description><![CDATA[Hello and welcome to our first episode of The Family Reunion! In today's episode, we'll be hearing from Lucy Hudson, our Youth Pastor, about her philosophy for the 2023-2024 school year in our youth program.  Additionally she will discuss some upcoming events and recently completed events.]]></description>
+            <content:encoded><![CDATA[Hello and welcome to our first episode of The Family Reunion! In today's episode, we'll be hearing from Lucy Hudson, our Youth Pastor, about her philosophy for the 2023-2024 school year in our youth program.  Additionally she will discuss some upcoming events and recently completed events.]]></content:encoded>
+            <link><![CDATA[https://insider.captivate.fm/episode/upgrade-your-podcast-with-that-one-thing-youve-been-thinking-about-implementing]]></link>
+            <!--<guid isPermaLink="false">252f36bd-026c-48b2-bc01-b6f4113d290d</guid>-->
+            <itunes:image
+                href="https://artwork.captivate.fm/dfb8c1f6-37d4-436a-ac7c-9892dd42d8ec/95P3tsytEUaOF_uL-_5tIjIW.png" />
+            <dc:creator><![CDATA[First Church DeLand]]></dc:creator>
+            <pubDate>Wed, 27 Sept 2023 09:00:00 +0000</pubDate>
+            <enclosure
+                url="https://podcasts.captivate.fm/media/eee72c32-64c5-467e-960f-b5b0f210804f/Cap-Insider-Ep32.mp3"
+                length="63575456" type="audio/mpeg" />
+            <itunes:duration>01:06:13</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>1</itunes:episode>
+            <itunes:summary>Hello and welcome to our first episode of The Family Reunion! In today's episode, we'll be hearing from Lucy Hudson, our Youth Pastor, about her philosophy for the 2023-2024 school year in our youth program.  Additionally she will discuss some upcoming events and recently completed events.
+            </itunes:summary>
+            <itunes:author>First Church DeLand</itunes:author>
+        </item>
+
+    </channel>
+</rss>
