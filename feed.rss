@@ -8,14 +8,14 @@
     xmlns:podcast="https://podcastindex.org/namespace/1.0">
     <channel>
         <atom:link href="https://fcdeland.github.io/podcast/feed.rss" rel="self" type="application/rss+xml" />
-        <title><![CDATA[The Family Reunion by First Church DeLand]]></title>
+        <title><![CDATA[The Family Reunion By First Church DeLand]]></title>
         <lastBuildDate>Fri, 20 Jan 2023 12:40:37 +0000</lastBuildDate>
         <generator>First Church DeLand</generator>
         <language><![CDATA[en]]></language>
         <copyright><![CDATA[Copyright 2023 First Church DeLand]]></copyright>
         <managingEditor>First Church DeLand</managingEditor>
         <itunes:summary><![CDATA[
-        Welcome to `The Family Reunion’ podcast, where we share interesting happenings at our church (First Church DeLand), interviews and philosophical discussions.  At First Church DeLand, we are The Family Place, and this podcast is the digital equivalent of catching up with your family at a reunion. Our goal is to Intentional share Christ’s love and salvation as God directs through this ministry.  For more information about our church please visit https://firstchurchdeland.org
+        Welcome to The Family Reunion podcast, where we share interesting happenings at our church (First Church DeLand), interviews and philosophical discussions.  At First Church DeLand, we are The Family Place, and this podcast is the digital equivalent of catching up with your family at a reunion. Our goal is to Intentional share Christ’s love and salvation as God directs through this ministry.  For more information about our church please visit https://firstchurchdeland.org
         ]]></itunes:summary>
         <image>
             <url>
@@ -31,7 +31,7 @@
         </itunes:owner>
         <itunes:author>First Church DeLand</itunes:author>
         <description>
-            Welcome to `The Family Reunion’ podcast, where we share interesting happenings at our church (First Church DeLand), interviews and philosophical discussions.  At First Church DeLand, we are The Family Place, and this podcast is the digital equivalent of catching up with your family at a reunion. Our goal is to Intentional share Christ’s love and salvation as God directs through this ministry.  For more information about our church please visit https://firstchurchdeland.org
+            Welcome to The Family Reunion podcast, where we share interesting happenings at our church (First Church DeLand), interviews and philosophical discussions.  At First Church DeLand, we are The Family Place, and this podcast is the digital equivalent of catching up with your family at a reunion. Our goal is to Intentional share Christ’s love and salvation as God directs through this ministry.  For more information about our church please visit https://firstchurchdeland.org
         </description>
         <link>https://firstchurchdeland.org</link>
         <atom:link href="https://pubsubhubbub.appspot.com" rel="hub" />
